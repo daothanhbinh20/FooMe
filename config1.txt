@@ -1,0 +1,52 @@
+Name: Roasted Cauliflower Lasagne
+
+Price: 3.82
+
+Ingredients: cauliflower florets, olive oil, salt, whole plum tomatoes, garlic, red pepper, tomato paste, basil leaves, whole-wheat lasagne sheets, light ricotta, egg, light mozzarella, Parmesan, flat-leaf parsley leaves
+
+
+
+Name: Grilled Tofu and Chicken Pad Thai
+
+Price: 6.14
+
+Ingredients: extra-firm tofu, chicken breasts, peanut oil, salt, ground pepper, shallots, garlic, ancho chilli powder, tamarind paste, rice vinegar, fish sauce, brown sugar, creamy peanut butter, Thai rice noodles, spring onion, coriander leaves, bean sprouts, cashews, limes
+
+
+
+Name: Spicy Three-Bean Chilli
+Price: 2.32
+
+Ingredients: vegetable oil, tomato paste, chipotle in adobo, chilli powder, dried oregano, mild salsa, cans beans, can hominy or corn, long-grain white rice, cider vinegar
+
+
+
+Name: Spicy Kale and Corn Stuffed Chicken Breasts
+
+Price: 3.24
+
+Ingredients: olive oil, frozen chopped kale, garlic, salt, frozen sweetcorn, pepper jack cheese, boneless skinless chicken breast halves, ground black pepper, low-sodium chicken broth, all-purpose flour, fresh lemon juice
+
+
+
+Name: Prawn Stir-Fry
+Price: 3.38
+
+Ingredients: butter, olive oil, jumbo prawns, garlic, courgette, corn, cherry tomatoes, yellow cherry tomatoes, salt, ground black pepper, fresh basil leaves, parmesan shavings, lemon, pasta
+
+
+
+Name: Tuna and Avocado on Toast with Crunchy Slaw and Five-Spice Oranges
+
+Price: 3.06
+
+Ingredients: rice wine vinegar, almonds, light soy sauce, grated ginger, honey, spring onions, ground black pepper, coleslaw mix, light mayonnaise, toasted sesame oil, solid white tuna, whole wheat bread, avocado, broccoli sprouts, oranges, five-spice powder, semi-skimmed milk
+
+
+
+Name: Pressure Cooker Beef Stroganoff
+Price: 3.03
+
+Ingredients: lean beef chuck, salt, ground black pepper, olive oil, onion, dry white wine, Dijon mustard, plain flour, low-sodium beef broth, white button mushrooms, carrots, celery, cream cheese, fresh parsley, egg noodles
+
+
